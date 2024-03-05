@@ -1,6 +1,6 @@
 # ASP.NETIdentity2hashcat
 
-This script convert converts ASP.NET Identity into a format compatible with Hashcat (`PBKDF2+HMAC-SHA1` and `PBKDF2+HMAC-SHA256`). 
+This script convert converts ASP.NET Identity's into a format compatible with Hashcat (`PBKDF2+HMAC-SHA1` and `PBKDF2+HMAC-SHA256`). 
 
 ## Usage
 
